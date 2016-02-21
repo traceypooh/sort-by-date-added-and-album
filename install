@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mkdir -p ~/Library/iTunes/Scripts
+cp Sort\ by\ Date\ Added\ and\ Album.applescript ~/Library/iTunes/Scripts
