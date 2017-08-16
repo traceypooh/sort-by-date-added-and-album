@@ -14,3 +14,7 @@ To use:
 3. Make the "Show" column visible and sort in descending order.
 
 Voila! Your tracks are now sorted by date added, grouped by album and disc, and in the order they appear on the album.
+
+
+## NOTE: this copies/overwrites (a nicely sortable string) to `Show` field (which you can sort by later) -- each time you use it
+## NOTE: exclude tracks/items still in iCloud and not local, or else script fails when gets to them
