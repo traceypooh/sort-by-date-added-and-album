@@ -17,4 +17,4 @@ Voila! Your tracks are now sorted by date added, grouped by album and disc, and 
 
 
 ## NOTE: this copies/overwrites (a nicely sortable string) to `Show` field (which you can sort by later) -- each time you use it
-## NOTE: exclude tracks/items still in iCloud and not local, or else script fails when gets to them
+## NOTE: exclude tracks/items still in iCloud (and not local to your machine), or download them first, or else script fails when gets to them
